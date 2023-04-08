@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679571889 source:c:\users\teamm\documents\zajencia\zajenciat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
